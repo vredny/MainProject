@@ -1,6 +1,0 @@
-C:\Users\Андрей\Google Диск\диплом ;)\Linear_regression\Linear_regression\bin\Debug\Linear_regression.exe.config
-C:\Users\Андрей\Google Диск\диплом ;)\Linear_regression\Linear_regression\bin\Debug\Linear_regression.exe
-C:\Users\Андрей\Google Диск\диплом ;)\Linear_regression\Linear_regression\bin\Debug\Linear_regression.pdb
-C:\Users\Андрей\Google Диск\диплом ;)\Linear_regression\Linear_regression\obj\Debug\Linear_regression.csprojResolveAssemblyReference.cache
-C:\Users\Андрей\Google Диск\диплом ;)\Linear_regression\Linear_regression\obj\Debug\Linear_regression.exe
-C:\Users\Андрей\Google Диск\диплом ;)\Linear_regression\Linear_regression\obj\Debug\Linear_regression.pdb
